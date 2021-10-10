@@ -1,0 +1,1 @@
+alert("Esto es una prieba de JavaScript");
